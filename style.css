@@ -33,28 +33,28 @@ a {
     color: blue;
 }
 
-.container {
+.pageContainer {
     width: 1024px;
     margin: 0 auto;
 }
 
- #main-bio,
- #contact-info,
+ #mainBio,
+ #contactInformation,
  #bio-image{
      float: left;
  }
  
- #main-bio {
+ #mainBio {
      width: 70%;
  }
- #bio-image {
+ #bioImage {
     margin-right: 20px;
     width: 200px;
     height: 200px;
 }
 
 
-#contact-info {
+#contactInformation {
     width:30%;
 }
 
